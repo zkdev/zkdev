@@ -9,4 +9,4 @@ Graduate September '21 🎉
 - 🤮 terrible frontend designer
 - 🎶 lofi hip hop music
 - 🛡️ highly sensible for software security
-- 📦 kubernetes means future
+- 🏡 a kubernetes [gardener](https://github.com/gardener)
