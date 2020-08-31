@@ -10,3 +10,4 @@ Graduate September '21 🎉
 - 🎶 lofi hip hop music
 - 🛡️ highly sensible for software security
 - 🏡 a kubernetes [gardener](https://github.com/gardener)
+- 📖 aware of the Dunning-Krueger effect
