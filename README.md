@@ -4,8 +4,9 @@ Highly motivated and curious open-source enthusiast with focus on cloud developm
 
 ## Facts
 - 🐍 Python lover
-- 🤮 terrible frontend designer
+- 🎮 RPG and Strategy Games
 - 🎶 lofi hip hop music
 - 🛡️ highly sensible for software security
 - 🏡 a kubernetes [gardener](https://github.com/gardener)
 - 📖 aware of the Dunning-Krueger effect
+- 📝 Pen and Paper
