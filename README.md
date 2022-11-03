@@ -10,3 +10,4 @@ Highly motivated and curious open-source enthusiast with focus on cloud developm
 - 🏡 a kubernetes [gardener](https://github.com/gardener)
 - 📖 aware of the Dunning-Krueger effect
 - 📝 Pen and Paper
+- 🅰️ naming is hard
