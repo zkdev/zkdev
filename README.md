@@ -2,7 +2,7 @@
 
 A proactive problem solver with a cloud-native and open-source-first mindset.
 
-- Maintainer of [Open Delivery Gear](https://github.com/open-component-model/delivery-service)
+- Maintainer of [Open Delivery Gear](https://github.com/open-component-model/open-delivery-gear)
 - Member of the Technical Steering Committee for [Open Component Model](https://github.com/open-component-model)
 
 ## Facts
